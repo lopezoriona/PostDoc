@@ -1,5 +1,5 @@
 
-# Load all these functions
+# Load these auxiliary functions
 
 circular_quantile_lsv <- function(cts, tau = 0.5) {
   
